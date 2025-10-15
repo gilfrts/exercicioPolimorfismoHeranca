@@ -11,6 +11,7 @@ import entities.PessoaJuridica;
 
 public class Program {
 
+	//teste do commit
 	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
